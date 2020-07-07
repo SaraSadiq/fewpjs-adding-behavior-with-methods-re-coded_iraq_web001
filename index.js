@@ -1,6 +1,7 @@
 // Your code here
 class Cat {
   //...
+  return name
 }
 
 class Dog {
